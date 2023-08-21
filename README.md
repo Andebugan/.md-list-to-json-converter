@@ -1,5 +1,5 @@
 # .md-list-to-json-converter
-Simple python code for converting markdown lists to json dictionary
+Simple python script for converting markdown file with lists in it into json
 
 Converts this:
 ```
